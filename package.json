@@ -11,6 +11,7 @@
   "author": "Vadym Yatsyuk <vadym.yatsyuk@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "blynk-client": "0.0.2",
     "body-parser": "^1.17.2",
     "chalk": "^2.1.0",
     "cookie-parser": "^1.4.3",
